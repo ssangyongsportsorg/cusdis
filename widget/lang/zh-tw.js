@@ -1,5 +1,4 @@
 window.CUSDIS_LOCALE = {
-    powered_by: '由 Cusdis 提供支持',
     post_comment: '發送',
     loading: '加載中',
   
